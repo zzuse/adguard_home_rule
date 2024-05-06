@@ -9,12 +9,17 @@
 !#if !env_mv3
 ! ——— Other consoles ———
 ||itunes.apple.com^
+||googlevideo.com^
+||play.googleapis.com^
+||sites.google.com^
+||scratch.mit.edu^
 ||supercell.com^
+||clashofclans.com^
 ||game.clashroyaleapp.com^
 ||brawlstars.inbox.supercell.com^
 ||game.brawlstarsgame.com^
 ||apple-dns.cn^
-||medium.com^$important
+||medium.com^
 ||theguardian.com^
 ||guardian.map.fastly.net^
 ||dashnet.org^
@@ -202,7 +207,6 @@
 ||api.tplinkra.com^
 ||bitheroesarena.io^
 ||bitheroesarena.com^
-||play.googleapis.com^
 ||www.miniplay.com^
 ||www.kamibox.de^
 ||image.yaksgames.com^$important
@@ -229,4 +233,6 @@
 ||suroi.io^
 ||dreame.com^
 ||ficfun.com^
+||sentry.io^
+||mygamatoto.com^
 !#endif
