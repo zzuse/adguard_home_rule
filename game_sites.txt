@@ -237,4 +237,5 @@
 ||mygamatoto.com^
 ||fictiondb.com^
 ||watchdocumentaries.com/games/^
+||peppagame.com^
 !#endif
