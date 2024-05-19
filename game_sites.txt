@@ -235,4 +235,6 @@
 ||ficfun.com^
 ||sentry.io^
 ||mygamatoto.com^
+||fictiondb.com^
+||watchdocumentaries.com/games/^
 !#endif
