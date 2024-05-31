@@ -8,7 +8,6 @@
 
 !#if !env_mv3
 ! ——— Other consoles ———
-||itunes.apple.com^
 ||googlevideo.com^
 ||play.googleapis.com^
 ||sites.google.com^
@@ -18,7 +17,6 @@
 ||game.clashroyaleapp.com^
 ||brawlstars.inbox.supercell.com^
 ||game.brawlstarsgame.com^
-||apple-dns.cn^
 ||medium.com^
 ||theguardian.com^
 ||guardian.map.fastly.net^
