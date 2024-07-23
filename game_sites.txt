@@ -8,7 +8,6 @@
 
 !#if !env_mv3
 ! ——— Other consoles ———
-||googlevideo.com^
 ||play.googleapis.com^
 ||sites.google.com^
 ||scratch.mit.edu^
