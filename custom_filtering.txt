@@ -11,11 +11,7 @@
 @@||www.britannica.com^
 @@||theguardian.com^
 @@||guardian.map.fastly.net^
-@@||hydr0.org^
-@@||mp3mn.net^
-@@||sunproxy.net^
 @@||frdic.com^
-@@||googlevideo.com^
 @@||scratch.mit.edu^$important
 @@||adobe.io^$important
 @@||cloudflare.net^$important
