@@ -9,7 +9,7 @@
 !#if !env_mv3
 ! ——— Other consoles ———
 ||googlevideo.com^
-||video.search.yahoo.com
+||video.search.yahoo.com^
 ||rollingstone.com^
 ||hydr0.org^
 ||mp3mn.net^
