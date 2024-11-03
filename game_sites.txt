@@ -10,8 +10,6 @@
 ! ——— Other consoles ———
 ||play.googleapis.com^
 ||sites.google.com^
-||scratch.mit.edu^
-||clickerheroes.com^
 ||supercell.com^
 ||clashofclans.com^
 ||game.clashroyaleapp.com^
