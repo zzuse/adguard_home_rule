@@ -8,6 +8,7 @@
 
 !#if !env_mv3
 ! ——— Other consoles ———
+||playsaurus.com^
 ||play.googleapis.com^
 ||sites.google.com^
 ||supercell.com^
