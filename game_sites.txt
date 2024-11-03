@@ -15,10 +15,6 @@
 ||game.clashroyaleapp.com^
 ||brawlstars.inbox.supercell.com^
 ||game.brawlstarsgame.com^
-||medium.com^
-||theguardian.com^
-||guardian.map.fastly.net^
-||dashnet.org^
 ||digdig.io^
 ||krunker.io^
 ||battledores.io^
@@ -47,8 +43,7 @@
 ||dangerousminds.net^
 ||www.hahahumor.com^
 ||static.artfido.com^
-||www.hiptoro.com^
-||64.media.tumblr.com^
+||tumblr.com^
 ||galleryroulette.com^
 ||www.meme-arsenal.com^
 ||pleated-jeans.com^

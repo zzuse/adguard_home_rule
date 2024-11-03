@@ -20,4 +20,5 @@
 ||variety.com^
 ||wwd.com^
 ||jwplayer.com^
+||medium.com^
 !#endif
