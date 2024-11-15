@@ -232,4 +232,6 @@
 ||peppagame.com^
 ||games.lol^
 ||ponosgames.com^
+||gamesradar.com^
+||gamespot.com^
 !#endif
