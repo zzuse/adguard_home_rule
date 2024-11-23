@@ -228,7 +228,7 @@
 ||sentry.io^
 ||mygamatoto.com^
 ||fictiondb.com^
-*://watchdocumentaries.com/*game*
+||watchdocumentaries.com^
 ||peppagame.com^
 ||games.lol^
 ||ponosgames.com^
