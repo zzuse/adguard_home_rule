@@ -234,4 +234,6 @@
 ||ponosgames.com^
 ||gamesradar.com^
 ||gamespot.com^
+||new66ez.github.io^
+||ubg89.github.io^
 !#endif
