@@ -237,4 +237,5 @@
 ||new66ez.github.io^
 ||ubg89.github.io^
 ||dogeminer.se^
+||chesscomfiles.com^
 !#endif
