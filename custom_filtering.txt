@@ -12,4 +12,5 @@
 @@||typekit.net^$important
 @@||dictionary.com^$important
 @@||sciencelearn.org.nz^$important
-
+@@||britannica.com^$important
+@@||python.org^$important

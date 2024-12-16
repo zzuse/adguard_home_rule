@@ -8,4 +8,5 @@
 ||clickerheroes.com^
 ||cookieclicker3.com^
 ||cookieclicker.com^
+||hoodamath.com^
 !#endif

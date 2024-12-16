@@ -4,4 +4,9 @@
 ! Expires: 10 days
 ! Description: Much like there's now lists for AdGuard Home and Pi-hole to block ads on smart-TVs, here's an attempt from me at doing the same for videogame consoles with AdGuard Home. Enjoy.
 @@||scratch.mit.edu^
+@@||ca.search.yahoo.com^$important
+@@||r.search.yahoo.com^$important
+@@||googlevideo.com^
+@@||video.search.yahoo.com^
+@@||ca.images.search.yahoo.com^
 !#endif
