@@ -14,3 +14,6 @@
 @@||sciencelearn.org.nz^$important
 @@||britannica.com^$important
 @@||python.org^$important
+||archive.org^
+||ca.video.search.yahoo.com^$important
+||play.google.com^$important

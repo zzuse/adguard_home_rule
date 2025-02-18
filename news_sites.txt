@@ -21,4 +21,7 @@
 ||wwd.com^
 ||jwplayer.com^
 ||medium.com^
+||quora.com^
+||washingtonpost.com^
+||brunomars.com^
 !#endif
