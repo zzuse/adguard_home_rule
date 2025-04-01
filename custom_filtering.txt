@@ -14,3 +14,8 @@
 @@||sciencelearn.org.nz^$important
 @@||britannica.com^$important
 @@||python.org^$important
+@@||giphy.com^
+@@||emailsfromanasshole.dontevenreply.com^
+@@||soundraw.io^
+@@||quillbot.com^
+@@||deepai.org^

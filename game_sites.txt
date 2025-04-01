@@ -332,4 +332,16 @@
 ||latitude.io^
 ||fischipedia.org^
 ||play.google.com^
+||lomando.com^
+||bigfishgames.com^
+||rugcheck.xyz^
+||hihoy.com^
+||beebom.com^
+||backloggd.com^
+||screamer.wiki^
+||pacogames.com^
+||fancyfishgames.com^
+||wgplayer.xyz^
+||gamearter.com^
+||gamenora.com^
 !#endif
