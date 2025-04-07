@@ -67,7 +67,6 @@
 ||www.nintendolife.com^
 ||fastly.net^
 ||demilked.com^
-||clashofclans.com^
 ||stabfish2.io^
 ||fandom.com^
 ||cdn.kiz10.com^
@@ -305,7 +304,6 @@
 ||stickgames.com^
 ||1games.io^
 ||snake-game.io^
-||1games.io^
 ||freegamesonline.io^
 ||clickergames.io^
 ||gamerant.com^

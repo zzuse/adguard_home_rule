@@ -1,0 +1,16 @@
+INSERT INTO block_list (qh, type) VALUES ('%bbc.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%businessinsider.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%allrecipes.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%britannica.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%theguardian.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%guardian.map.fastly.net', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%thesaurus.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%sportskeeda.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%spy.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%variety.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%wwd.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%jwplayer.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%medium.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%quora.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%washingtonpost.com', 'news');
+INSERT INTO block_list (qh, type) VALUES ('%brunomars.com', 'news');
