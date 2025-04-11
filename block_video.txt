@@ -1,0 +1,8 @@
+! Block List for type: video
+! Format: ||domain^ 
+
+||odysee.com^
+||tiktokcdn-us.com^
+||wikimedia.org^
+
+! End of Block List

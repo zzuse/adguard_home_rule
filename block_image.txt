@@ -1,0 +1,7 @@
+! Block List for type: image
+! Format: ||domain^ 
+
+||svgator.com^
+||thegamerimages.com^
+
+! End of Block List

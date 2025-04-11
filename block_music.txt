@@ -1,0 +1,30 @@
+! Block List for type: music
+! Format: ||domain^ 
+
+||8dio.com^
+||audiojungle.net^
+||audiopipe.suno.ai^
+||beatoven.ai^
+||bramleyprimary.co.za^
+||fiftysounds.com^
+||flutecafemusic.blogspot.com^
+||freemusicarchive.org^
+||freesound.org^
+||hydr0.org^
+||mp3mn.net^
+||musescore.com^
+||musicfy.lol^
+||mybcapps.com^
+||prosearch.tribeofnoise.com^
+||rollingstone.com^
+||shutterstock.com^
+||soundcloud.com^
+||soundpaint.com^
+||soundsnap.com^
+||soundstripe.com^
+||suno.com^
+||sunproxy.net^
+||ultimate-guitar.com^
+||uppbeat.io^
+
+! End of Block List
