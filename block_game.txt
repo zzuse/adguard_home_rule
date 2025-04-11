@@ -168,6 +168,7 @@
 ||js13kgames.com^
 ||justdoinghomework.com^
 ||kaptentekno.com^
+||kbhgames.com^
 ||kiz10.com^
 ||kizi.com^
 ||kongregate.com^
@@ -237,13 +238,13 @@
 ||pvp.net^
 ||questlog.gg^
 ||r74n.com^
-||rbxcdn.com^
 ||rehabupracticesolutions.com^
 ||riotgames.com^
 ||roadtolaughtale.com^
 ||rockstargames.com^
 ||royaleapi.com^
 ||rugcheck.xyz^
+||sandsaga.com^
 ||sandspiel.club^
 ||savagehumans.com^
 ||schoolnetworkadminsarethebest.com^
