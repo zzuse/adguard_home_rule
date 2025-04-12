@@ -1,7 +1,10 @@
 ! Block List for type: video
 ! Format: ||domain^ 
 
+||odycdn.com^
 ||odysee.com^
+||odysee.live^
+||odysee.tv^
 ||tiktokcdn-us.com^
 ||wikimedia.org^
 
