@@ -1,6 +1,7 @@
 ! Block List for type: video
 ! Format: ||domain^ 
 
+||lbry.com^
 ||odycdn.com^
 ||odysee.com^
 ||odysee.live^
