@@ -8,6 +8,5 @@
 @@||video.search.yahoo.com^
 @@||ca.video.search.yahoo.com^
 @@||ca.images.search.yahoo.com^
-@@||archive.org^
 
 ! End of Allow List

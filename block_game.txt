@@ -152,6 +152,7 @@
 ||herosmash.com^
 ||hihoy.com^
 ||hiptoro.com^
+||hoodamath.com^
 ||houseparty.com^
 ||i.chzbgr.com^
 ||idleminertycoon.com^
@@ -289,7 +290,6 @@
 ||statsroyale.com^
 ||steamchina.com^
 ||steampowered.com^
-||*.steampowered.com^
 ||steamserver.net^
 ||stickgames.com^
 ||supercell.com^

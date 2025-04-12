@@ -20,6 +20,7 @@
 ||shutterstock.com^
 ||soundcloud.com^
 ||soundpaint.com^
+||soundraw.io^
 ||soundsnap.com^
 ||soundstripe.com^
 ||suno.com^

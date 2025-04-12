@@ -1,3 +1,4 @@
+||craigslist.org^
 @@||esdict.cn^
 @@||umeng.com^
 @@||umengcloud.com^
@@ -15,7 +16,8 @@
 @@||britannica.com^$important
 @@||python.org^$important
 @@||giphy.com^
-@@||emailsfromanasshole.dontevenreply.com^
-@@||soundraw.io^
 @@||quillbot.com^
 @@||deepai.org^
+@@||mask*.icloud.com^
+@@||config.edge.skype.com
+||archive.org^$important
