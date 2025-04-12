@@ -1,0 +1,9 @@
+! Block List for type: clicker
+! Format: ||domain^ 
+
+||dashnet.org^
+||clickerheroes.com^
+||cookieclicker3.com^
+||cookieclicker.com^
+
+! End of Block List

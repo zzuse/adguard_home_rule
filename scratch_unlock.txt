@@ -1,7 +1,0 @@
-[Adblock Plus 3.6]
-! Title: 🎮 Game Console Adblock List
-! Version: 27December2023v1-Alpha
-! Expires: 10 days
-! Description: Much like there's now lists for AdGuard Home and Pi-hole to block ads on smart-TVs, here's an attempt from me at doing the same for videogame consoles with AdGuard Home. Enjoy.
-@@||scratch.mit.edu^
-!#endif

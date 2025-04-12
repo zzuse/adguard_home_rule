@@ -1,0 +1,13 @@
+! Allow List for type: education
+! Format: ||domain^ 
+
+@@||scratch.mit.edu^
+@@||ca.search.yahoo.com^
+@@||r.search.yahoo.com^
+@@||googlevideo.com^
+@@||video.search.yahoo.com^
+@@||ca.video.search.yahoo.com^
+@@||ca.images.search.yahoo.com^
+@@||archive.org^
+
+! End of Allow List
