@@ -12,12 +12,14 @@
 ||linkedin.com^
 ||looper.com^
 ||naturalmattressfinder.com^
+||people.com^
 ||quora.com^
 ||redd.it^
 ||reddit.com^
 ||sportskeeda.com^
 ||spy.com^
 ||theguardian.com^
+||thepopverse.com^
 ||thesaurus.com^
 ||variety.com^
 ||washingtonpost.com^

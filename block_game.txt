@@ -13,6 +13,7 @@
 ||api.tplinkra.com^
 ||apkremix.com^
 ||arcadespot.com^
+||archive.org^
 ||arkadium.com^
 ||armorgames.com^
 ||artix.com^
@@ -38,6 +39,7 @@
 ||boredpanda.com^
 ||bracketfights.com^
 ||brawlstars.com^
+||brawlstarsgame.com^
 ||brawlstars.inbox.supercell.com^
 ||brightestgames.com^
 ||bubbleshooter.net^
@@ -112,7 +114,6 @@
 ||g2a.com^
 ||galleryroulette.com^
 ||gamearter.com^
-||game.brawlstarsgame.com^
 ||game-cdn.poki.com^
 ||game.clashroyaleapp.com^
 ||gamecomets.com^

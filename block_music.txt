@@ -23,6 +23,7 @@
 ||soundraw.io^
 ||soundsnap.com^
 ||soundstripe.com^
+||spotify.com^
 ||suno.com^
 ||sunproxy.net^
 ||ultimate-guitar.com^
