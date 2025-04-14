@@ -168,7 +168,6 @@ icloud.com
 *.icloud.com.cn
 *.icloud-content.com
 imagedelivery.net
-*.imgur.com
 *.instagram.com
 *.jquery.com
 *.jsdelivr.net
@@ -275,7 +274,6 @@ sentry.io
 *.sharepoint.com
 *share.voyage
 *.shoutwiki.com
-*.shutterstock.com
 s-iphone
 *.skype.com
 *.s-microsoft.com
@@ -310,6 +308,7 @@ transitapp-data.com
 *.umengcloud.com
 *.umeng.com
 *.umsns.com
+*unpkg.com
 *.usercentrics.eu
 *.usertrust.com
 *.virtualearth.net
@@ -342,5 +341,6 @@ www.officeholidays.com
 *yellowblue.io
 *.youtube.com
 youtube.com
+*youtube-nocookie.com
 *.ytimg.com
 

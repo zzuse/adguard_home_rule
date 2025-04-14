@@ -150,6 +150,7 @@
 ||greenlemon.me^
 ||grindcraft.com^
 ||gulper.io^
+||harag.cz^
 ||herosmash.com^
 ||hihoy.com^
 ||hiptoro.com^
@@ -195,6 +196,7 @@
 ||miniclip.com^
 ||mistupid.com^
 ||mmobeep.com^
+||moddb.com^
 ||monkey3three.github.io^
 ||mortgagecalculator.org^
 ||mrdoob.com^
