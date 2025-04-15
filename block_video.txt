@@ -1,13 +1,36 @@
 ! Block List for type: video
 ! Format: ||domain^ 
 
+||9gag.com^
+||bitchute.com^
+||blender.org^
+||crackle.com^
+||dailymotion.com^
+||d.tube^
+||framasoft.org^
+||freetubeapp.io^
 ||imgur.com^
+||joinpeertube.org^
+||justwatch.com^
 ||lbry.com^
+||metacube.com^
+||newpipe.net^
 ||odycdn.com^
 ||odysee.com^
 ||odysee.live^
 ||odysee.tv^
+||playeur.com^
+||playwire.com^
+||rumble.com^
+||sproutvideo.com^
 ||tiktokcdn-us.com^
+||utreon.com^
+||vevo.com^
+||videvo.net^
+||vimeo.com^
 ||wikimedia.org^
+||wistia.com^
+||wistia.net^
+||wix.com^
 
 ! End of Block List

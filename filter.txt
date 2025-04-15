@@ -7,6 +7,7 @@
 *.adguard.org
 *.adjust.com
 *.adobe.com
+*adobe.io
 *.adtidy.org
 *adtilt.com
 *.akadns.net
@@ -82,10 +83,12 @@ cn.ntp.org.cn
 *.cookiebot.com
 *cookielaw.org
 *.cookiepro.com
+*cookie-script.com
 *cqloud.com
 *.crashlytics.com
 *.crisp.chat
 *criteo.com
+*ctfassets.net
 data.iana.org
 *.deepai.org
 *.deepl.com
@@ -106,6 +109,9 @@ donorbox.org
 *easebar.com
 *.edgekey.net
 *.elfsight.com
+*.embed.ly
+%embedly.com
+*embedly.com
 *.enlistly.com
 example.org
 *.exp-tas.com
@@ -162,6 +168,7 @@ google.com
 *.honeybadger.io
 *howl.link
 *.hp.com
+*hubspot.com
 *icanbuy.com
 *.icloud.com
 icloud.com
@@ -173,6 +180,7 @@ imagedelivery.net
 *.jsdelivr.net
 *jwpcdn.com
 *jwpsrv.com
+*kickstarter.com
 *.klaviyo.com
 *.kunluncan.com
 *.kunlunea.com
@@ -185,7 +193,10 @@ leetcode.cn
 *liadm.com
 *licdn.com
 *.live.com
+*live.com
 *.live.net
+*liveperson.com
+*liveperson.net
 *localizeapi.com
 *.mail.me.com
 *.mapbox.com
@@ -248,6 +259,7 @@ publicsuffix.org
 *.qlogo.cn
 *.qpic.cn
 *.qq.com
+*qualtrics.com
 *.queniuck.com
 *.queniuso.com
 *.quillbot.com
@@ -275,6 +287,8 @@ sentry.io
 *share.voyage
 *.shoutwiki.com
 s-iphone
+*sketchfab.com
+sketchfab.com
 *.skype.com
 *.s-microsoft.com
 *.solana.fm
@@ -285,6 +299,7 @@ s-iphone
 steamcommunity.com
 *steamstatic.com
 *.stripe.com
+*stripe.network
 *.supersonicads.com
 *supersonicads.com
 *.taboola.com
@@ -299,6 +314,7 @@ time.windows.com
 *.t-msedge.net
 *.tolt.io
 *tradingview.com
+*transcend-cdn.com
 *.transitapp.com
 *.transitapp-data.com
 transitapp-data.com
@@ -334,6 +350,7 @@ transitapp-data.com
 *.winnipegsd.ca
 *.wixmp.com
 *.wordtune.com
+*workers.dev
 www.officeholidays.com
 *.xboxab.com
 *.xboxlive.com

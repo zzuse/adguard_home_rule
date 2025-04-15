@@ -1,6 +1,9 @@
 ! Block List for type: image
 ! Format: ||domain^ 
 
+||gamebanana.com^
+||hentaibooty.com^
+||hentaiporn.app^
 ||svgator.com^
 ||thegamerimages.com^
 
