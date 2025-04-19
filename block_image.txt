@@ -1,6 +1,8 @@
 ! Block List for type: image
 ! Format: ||domain^ 
 
+||crushon.ai^
+||dopple.ai^
 ||gamebanana.com^
 ||hentaibooty.com^
 ||hentaiporn.app^

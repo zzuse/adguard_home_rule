@@ -2,6 +2,7 @@
 ! Format: ||domain^ 
 
 ||1001games.com^
+||1a-1791.com^
 ||1games.io^
 ||2kgames.com^
 ||8games.net^
@@ -10,6 +11,7 @@
 ||agame.com^
 ||agar.io^
 ||aidungeon.com^
+||apes.io^
 ||api.tplinkra.com^
 ||apkremix.com^
 ||arcadespot.com^
@@ -61,6 +63,7 @@
 ||chezz.xyz^
 ||clashofclans.com^
 ||clickergames.io^
+||clickergameslike.com^
 ||cmp.inmobi.com^
 ||cokogames.com^
 ||comicbook.com^
@@ -138,6 +141,7 @@
 ||gamespot.com^
 ||gamesradar.com^
 ||gamestolearnenglish.com^
+||gamingcloud.com^
 ||gdevelop.io^
 ||genius.com^
 ||geometrydashlite.io^
@@ -172,6 +176,7 @@
 ||justdoinghomework.com^
 ||kaptentekno.com^
 ||kbhgames.com^
+||kidzsearch.com^
 ||kiz10.com^
 ||kizi.com^
 ||kongregate.com^
@@ -205,6 +210,7 @@
 ||mygamatoto.com^
 ||ncase.me^
 ||neave.com^
+||nend.io^
 ||new66ez.github.io^
 ||newgrounds.com^
 ||nextersglobal.com^
@@ -232,6 +238,7 @@
 ||plays.org^
 ||pleasedontblockchess.com^
 ||pleated-jeans.com^
+||plinko2023.com^
 ||pockettactics.com^
 ||pogo.com^
 ||pokemon.com^
@@ -331,6 +338,7 @@
 ||wanted5games.com^
 ||warandpeas.com^
 ||watchdocumentaries.com^
+||webgames.io^
 ||weishi.qq.com^
 ||wgplayer.com^
 ||wgplayer.xyz^

@@ -1,5 +1,6 @@
 *.aaplimg.com
 *acsbapp.com
+*acticdn.com
 *.adblockplus.dev
 *.adblockplus.org
 *.adguard.com
@@ -243,6 +244,7 @@ ntp.ntsc.ac.cn
 openai.com
 openwrt.home.local
 *optimizely.com
+*outlook.com
 *.ovscdns.com
 *.paddle.com
 *.pbstck.com
@@ -309,6 +311,7 @@ steamcommunity.com
 *.termius.com
 *.thawte.com
 *.tiktok.com
+*tildacdn.com
 time.g.aaplimg.com
 time.windows.com
 *.t-msedge.net
