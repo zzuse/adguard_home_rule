@@ -64,6 +64,7 @@
 ||clashofclans.com^
 ||clickergames.io^
 ||clickergameslike.com^
+||clickerheroes.com^
 ||cmp.inmobi.com^
 ||cokogames.com^
 ||comicbook.com^
@@ -96,6 +97,7 @@
 ||famobi.com^
 ||fancyfishgames.com^
 ||fandom.com^
+||farmhand.life^
 ||fastly.net^
 ||ficfun.com^
 ||fictiondb.com^
@@ -115,6 +117,7 @@
 ||furaffinity.net^
 ||g123.jp^
 ||g2a.com^
+||galaxy.click^
 ||galleryroulette.com^
 ||gamearter.com^
 ||game-cdn.poki.com^
@@ -177,6 +180,7 @@
 ||kaptentekno.com^
 ||kbhgames.com^
 ||kidzsearch.com^
+||kiloo.com^
 ||kiz10.com^
 ||kizi.com^
 ||kongregate.com^
@@ -199,6 +203,7 @@
 ||medium.com^
 ||minesweeperonline.com^
 ||miniclip.com^
+||minireview.io^
 ||mistupid.com^
 ||mmobeep.com^
 ||moddb.com^

@@ -209,6 +209,8 @@ leetcode.cn
 *.microsoft.com
 *.microsoftonline.com
 *.microsoftpersonalcontent.com
+*minecrafteduservices.com
+*minecraft-services.net
 *.mixpanel.com
 *mmbiz.qpic.cn
 *.mozgcp.net
