@@ -104,6 +104,7 @@
 ||filmdaily.co^
 ||finalfantasyxiv.com^
 ||fischipedia.org^
+||flashgamearchive.com^
 ||florianvanstrien.nl^
 ||freegames.com^
 ||freegamesonline.io^
@@ -147,6 +148,7 @@
 ||gamingcloud.com^
 ||gdevelop.io^
 ||genius.com^
+||geography-lessons-5.pro^
 ||geometrydashlite.io^
 ||gg.deals^
 ||giantfreakinrobot.com^
@@ -344,6 +346,7 @@
 ||wanted5games.com^
 ||warandpeas.com^
 ||watchdocumentaries.com^
+||webadventures.games^
 ||webgames.io^
 ||weishi.qq.com^
 ||wgplayer.com^
