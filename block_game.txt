@@ -82,6 +82,7 @@
 ||digdig.io^
 ||dogeminer2.com^
 ||dogeminer.se^
+||dragonwhites.com^
 ||drawingskill.com^
 ||dreame.com^
 ||drivemad2.io^
@@ -301,6 +302,7 @@
 ||sprunkin.com^
 ||squadbustersgame.com^
 ||stabfish2.io^
+||stabfish.io^
 ||stardewvalley.net^
 ||starstable.com^
 ||static.artfido.com^
@@ -337,6 +339,7 @@
 ||unblocked-76.io^
 ||unblockedgames76online.com^
 ||unblockedgames76.org^
+||unblocked-games.org^
 ||unblockedgamespod.com^
 ||unity3d.com^
 ||vex5.io^
