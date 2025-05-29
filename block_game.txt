@@ -12,6 +12,7 @@
 ||agar.io^
 ||aidungeon.com^
 ||apes.io^
+||api.teamwood.games^
 ||api.tplinkra.com^
 ||apkremix.com^
 ||arcadespot.com^
@@ -73,9 +74,12 @@
 ||cookieclicker.wiki.gg^
 ||coolmathgames.com^
 ||crazygames.com^
+||dafunda.com^
 ||damianosborne.com^
 ||dangerousminds.net^
 ||data.html5games.com^
+||daybreakgames.com^
+||ddo.com^
 ||deckshop.pro^
 ||deltiasgaming.com^
 ||demilked.com^
@@ -124,6 +128,7 @@
 ||gamearter.com^
 ||game-cdn.poki.com^
 ||game.clashroyaleapp.com^
+||gamecolony.com^
 ||gamecomets.com^
 ||gamedistribution.com^
 ||gameforge.com^
@@ -164,6 +169,7 @@
 ||herosmash.com^
 ||hihoy.com^
 ||hiptoro.com^
+||holeio.com^
 ||hoodamath.com^
 ||houseparty.com^
 ||i.chzbgr.com^
@@ -211,6 +217,8 @@
 ||mmobeep.com^
 ||moddb.com^
 ||monkey3three.github.io^
+||monkeymartgame.org^
+||monkeymart.one^
 ||mortgagecalculator.org^
 ||mrdoob.com^
 ||m.taptap.io^
@@ -225,12 +233,14 @@
 ||nextersglobal.com^
 ||ngfiles.com^
 ||nocookie.net^
+||northgard.net^
 ||now.gg^
 ||online-go.com^
 ||orb.farm^
 ||pacogames.com^
 ||paper.io^
 ||paper-io.com^
+||paperio.site^
 ||pbskids.org^
 ||peppagame.com^
 ||pixelcrux.com^
@@ -327,6 +337,7 @@
 ||tiermaker.com^
 ||tinybuddha.com^
 ||toontales.net^
+||topgamedata.com^
 ||tplinknbu.com^
 ||t.poki.io^
 ||traffic-rider.io^
@@ -359,6 +370,7 @@
 ||wtfgames.io^
 ||www.4j.com^
 ||www.brighthumanity.me^
+||www.daybreakgames.com^
 ||www.dexerto.com^
 ||www.extracatchy.net^
 ||www.febspot.com^
@@ -371,6 +383,7 @@
 ||www.miniplay.com^
 ||www.nintendolife.com^
 ||www.onlinegames.io^
+||www.playbite.com^
 ||www.spiele-umsonst.de^
 ||www.trivianerd.com^
 ||www.warnerbros.com^

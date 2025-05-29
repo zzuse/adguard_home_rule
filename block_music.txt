@@ -2,15 +2,18 @@
 ! Format: ||domain^ 
 
 ||8dio.com^
+||aimusicgen.ai^
 ||audiojungle.net^
 ||audiopipe.suno.ai^
 ||beatoven.ai^
 ||bramleyprimary.co.za^
+||easymusic.ai^
 ||fiftysounds.com^
 ||flutecafemusic.blogspot.com^
 ||freemusicarchive.org^
 ||freesound.org^
 ||hydr0.org^
+||makebestmusic.com^
 ||mp3mn.net^
 ||musescore.com^
 ||musicfy.lol^

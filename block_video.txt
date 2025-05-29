@@ -5,6 +5,7 @@
 ||bitchute.com^
 ||blender.org^
 ||crackle.com^
+||crunchyroll.com^
 ||dailymotion.com^
 ||d.tube^
 ||framasoft.org^
@@ -14,6 +15,7 @@
 ||justwatch.com^
 ||lbry.com^
 ||metacube.com^
+||myanimelist.net^
 ||newpipe.net^
 ||odycdn.com^
 ||odysee.com^

@@ -9,6 +9,7 @@
 ||cnn.com^
 ||guardian.map.fastly.net^
 ||jwplayer.com^
+||khooz.com^
 ||linkedin.com^
 ||looper.com^
 ||naturalmattressfinder.com^
