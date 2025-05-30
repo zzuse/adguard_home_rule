@@ -12,7 +12,6 @@
 ||agar.io^
 ||aidungeon.com^
 ||apes.io^
-||api.teamwood.games^
 ||api.tplinkra.com^
 ||apkremix.com^
 ||arcadespot.com^
@@ -45,6 +44,7 @@
 ||brawlstarsgame.com^
 ||brawlstars.inbox.supercell.com^
 ||brightestgames.com^
+||brighthumanity.me^
 ||bubbleshooter.net^
 ||c4355.com^
 ||c4.wallpaperflare.com^
@@ -162,6 +162,7 @@
 ||girlsgogames.com^
 ||g.msn.com^
 ||grandwinland.com^
+||greaterthangames.com^
 ||greenlemon.me^
 ||grindcraft.com^
 ||gulper.io^
@@ -218,6 +219,9 @@
 ||moddb.com^
 ||monkey3three.github.io^
 ||monkeymartgame.org^
+||monkey-mart.io^
+||monkeymart.io^
+||monkeymart.lol^
 ||monkeymart.one^
 ||mortgagecalculator.org^
 ||mrdoob.com^
@@ -242,8 +246,10 @@
 ||paper-io.com^
 ||paperio.site^
 ||pbskids.org^
+||pcgamesn.com^
 ||peppagame.com^
 ||pixelcrux.com^
+||playbite.com^
 ||play-games.com^
 ||play.googleapis.com^
 ||play.google.com^
@@ -329,6 +335,7 @@
 ||suroi.io^
 ||taming.io^
 ||tcsdzz.com^
+||teamwood.games^
 ||tecent.com^
 ||tetr.io^
 ||thegamer.com^
@@ -369,13 +376,10 @@
 ||whoa.in^
 ||wtfgames.io^
 ||www.4j.com^
-||www.brighthumanity.me^
-||www.daybreakgames.com^
 ||www.dexerto.com^
 ||www.extracatchy.net^
 ||www.febspot.com^
 ||www.gameflare.com^
-||www.hahahumor.com^
 ||www.izzygames.com^
 ||www.kamibox.de^
 ||www.kidzsearch.com^
@@ -383,7 +387,6 @@
 ||www.miniplay.com^
 ||www.nintendolife.com^
 ||www.onlinegames.io^
-||www.playbite.com^
 ||www.spiele-umsonst.de^
 ||www.trivianerd.com^
 ||www.warnerbros.com^
