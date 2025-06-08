@@ -83,6 +83,7 @@
 ||deckshop.pro^
 ||deltiasgaming.com^
 ||demilked.com^
+||destructoid.com^
 ||digdig.io^
 ||dogeminer2.com^
 ||dogeminer.se^
@@ -96,6 +97,7 @@
 ||ebaumsworld.com^
 ||enchambered.com^
 ||epimg.net^
+||eurogamer.net^
 ||exmanga.com^
 ||explodingkittens.com^
 ||facebook.com^
@@ -152,6 +154,7 @@
 ||gamesradar.com^
 ||gamestolearnenglish.com^
 ||gamingcloud.com^
+||gamurs.group^
 ||gdevelop.io^
 ||genius.com^
 ||geography-lessons-5.pro^
@@ -177,6 +180,7 @@
 ||idleminertycoon.com^
 ||image.yaksgames.com^
 ||img.cdn.famobi.com^
+||incrementaldb.com^
 ||injuredripplegentleman.com^
 ||inmobi.com^
 ||innersloth.com^
@@ -206,6 +210,8 @@
 ||little-games.com^
 ||logicard.github.io^
 ||lomando.com^
+||luts91.github.io^
+||lutsgames.com^
 ||madbox.io^
 ||mail.survivorio.com^
 ||mariokarttour.com^
@@ -224,6 +230,7 @@
 ||monkeymart.lol^
 ||monkeymart.one^
 ||mortgagecalculator.org^
+||moyens.net^
 ||mrdoob.com^
 ||m.taptap.io^
 ||myfreegames.net^
@@ -237,6 +244,7 @@
 ||nextersglobal.com^
 ||ngfiles.com^
 ||nocookie.net^
+||nointernetgame.com^
 ||northgard.net^
 ||now.gg^
 ||online-go.com^
@@ -256,6 +264,8 @@
 ||playhop.com^
 ||playingcards.io^
 ||playkingarthurlegendsrise.com^
+||playkot.com^
+||playkot.team^
 ||playok.com^
 ||playroms.net^
 ||playsaurus.com^
@@ -285,6 +295,7 @@
 ||savagehumans.com^
 ||schoolnetworkadminsarethebest.com^
 ||schoolschoolschool.com^
+||scrap-metal.github.io^
 ||screamer.wiki^
 ||screenrant.com^
 ||seaofthieves.com^
@@ -329,6 +340,7 @@
 ||steamserver.net^
 ||stickgames.com^
 ||supercell.com^
+||supercitygame.com^
 ||superhardalgebraproblems.com^
 ||supermario-game.com^
 ||supermarioplay.com^
@@ -345,11 +357,13 @@
 ||tinybuddha.com^
 ||toontales.net^
 ||topgamedata.com^
+||toytheater.com^
 ||tplinknbu.com^
 ||t.poki.io^
 ||traffic-rider.io^
 ||trappedintheweb.com^
 ||tumblr.com^
+||turbowarp.org^
 ||ubg89.github.io^
 ||ubgfun.github.io^
 ||ubi.com^
@@ -391,6 +405,7 @@
 ||www.trivianerd.com^
 ||www.warnerbros.com^
 ||www.wheninmanila.com^
+||xsolla.com^
 ||y8.com^
 ||yandex.com^
 ||yategames.com^

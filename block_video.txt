@@ -13,6 +13,7 @@
 ||imgur.com^
 ||joinpeertube.org^
 ||justwatch.com^
+||lamplightreview.com^
 ||lbry.com^
 ||metacube.com^
 ||myanimelist.net^
