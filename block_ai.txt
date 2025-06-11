@@ -54,5 +54,9 @@
 ||adcreative.ai^
 ||clay.com^
 ||harvey.ai^
+||jasper.ai^
+||anyword.com^
+||writer.com^
+||writesonic.com^
 
 ! End of Block List
