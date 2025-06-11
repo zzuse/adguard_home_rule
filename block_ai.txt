@@ -25,6 +25,34 @@
 ||feedhive.com^
 ||canva.com^
 ||looka.com^
-
+||bubble.io^
+||bolt.new^
+||lovable.dev^
+||cursor.com^
+||v0.dev^
+||asana.com^
+||clickup.com^
+||reclaim.ai^
+||getclockwise.com^
+||tidio.com^
+||hiverhq.com^
+||textio.com^
+||cvviz.com^
+||notion.com^
+||getguru.com^
+||hubspot.com^
+||sanebox.com^
+||shortwave.com^
+||gamma.app^
+||presentations.ai^
+||tealhq.com^
+||kickresume.com^
+||elevenlabs.io^
+||murf.ai^
+||suno.com^
+||udio.com^
+||adcreative.ai^
+||clay.com^
+||harvey.ai^
 
 ! End of Block List
