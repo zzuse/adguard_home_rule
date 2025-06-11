@@ -1,0 +1,30 @@
+! Block List for type: ai
+! Format: ||domain^ 
+
+||deepai.org^
+||chatgpt.com^
+||claude.ai^
+||gemini.google.com^
+||deepseek.com^
+||x.com/i/grok^
+||synthesia.io^
+||runwayml.com^
+||wondershare.com^
+||opus.pro^
+||midjourney.com^
+||fathom.video^
+||nyota.ai^
+||n8n.io^
+||notebooklm.google^
+||rytr.me^
+||sudowrite.com^
+||grammarly.com^
+||wordtune.com^
+||perplexity.ai^
+||ovistasocial.com^
+||feedhive.com^
+||canva.com^
+||looka.com^
+
+
+! End of Block List

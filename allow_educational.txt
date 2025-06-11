@@ -1,6 +1,7 @@
 ! Allow List for type: education
 ! Format: ||domain^ 
 
+@@||scratch5.com^
 @@||scratch.mit.edu^
 @@||ca.search.yahoo.com^
 @@||r.search.yahoo.com^
