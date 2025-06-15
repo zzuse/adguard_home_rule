@@ -85,6 +85,7 @@
 ||demilked.com^
 ||destructoid.com^
 ||digdig.io^
+||dndai.app^
 ||dogeminer2.com^
 ||dogeminer.se^
 ||dragonwhites.com^
