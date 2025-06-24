@@ -20,6 +20,9 @@
 ||mybcapps.com^
 ||poiskm.net^
 ||prosearch.tribeofnoise.com^
+||radio-api.net^
+||radio.de^
+||radio.net^
 ||rollingstone.com^
 ||shutterstock.com^
 ||soundcloud.com^
@@ -30,6 +33,7 @@
 ||spotify.com^
 ||suno.com^
 ||sunproxy.net^
+||uber.radio^
 ||ultimate-guitar.com^
 ||uppbeat.io^
 

@@ -128,6 +128,7 @@
 ||g2a.com^
 ||galaxy.click^
 ||galleryroulette.com^
+||gamaverse.com^
 ||gamearter.com^
 ||game-cdn.poki.com^
 ||game.clashroyaleapp.com^
@@ -197,6 +198,7 @@
 ||kidzsearch.com^
 ||kiloo.com^
 ||kiz10.com^
+||kiz10girls.com^
 ||kizi.com^
 ||kongregate.com^
 ||kongregate.io^
@@ -372,6 +374,7 @@
 ||unblocked-76.io^
 ||unblockedgames76online.com^
 ||unblockedgames76.org^
+||unblockedgames.blogbucket.org^
 ||unblocked-games.org^
 ||unblockedgamespod.com^
 ||unity3d.com^

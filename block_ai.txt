@@ -2,6 +2,8 @@
 ! Format: ||domain^ 
 
 ||adcreative.ai^
+||aichatting.net^
+||anthropic.com^
 ||anyword.com^
 ||asana.com^
 ||bolt.new^
@@ -15,9 +17,9 @@
 ||cursor.com^
 ||cvviz.com^
 ||deepai.org^
-||deepai.org^
 ||deepseek.com^
 ||dreamily.ai^
+||duck.ai^
 ||elevenlabs.io^
 ||fathom.video^
 ||feedhive.com^
@@ -57,6 +59,7 @@
 ||tidio.com^
 ||udio.com^
 ||v0.dev^
+||websim.com^
 ||wondershare.com^
 ||wordtune.com^
 ||writer.com^

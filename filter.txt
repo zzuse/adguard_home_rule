@@ -91,7 +91,6 @@ cn.ntp.org.cn
 *criteo.com
 *ctfassets.net
 data.iana.org
-*.deepai.org
 *.deepl.com
 *.degencdn.com
 *.digicert.cn
