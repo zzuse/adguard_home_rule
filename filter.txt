@@ -246,6 +246,7 @@ openai.com
 openwrt.home.local
 *optimizely.com
 *outlook.com
+*.overleaf.com
 *.ovscdns.com
 *.paddle.com
 *.pbstck.com

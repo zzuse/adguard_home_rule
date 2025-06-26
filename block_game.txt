@@ -63,6 +63,7 @@
 ||chessly.com^
 ||chezz.xyz^
 ||clashofclans.com^
+||clashroyale.com^
 ||clickergames.io^
 ||clickergameslike.com^
 ||clickerheroes.com^
@@ -105,6 +106,7 @@
 ||famobi.com^
 ||fancyfishgames.com^
 ||fandom.com^
+||fanverse.org^
 ||farmhand.life^
 ||fastly.net^
 ||ficfun.com^
@@ -191,6 +193,7 @@
 ||istockphoto.com^
 ||itch.io^
 ||jackboxgames.com^
+||jeowebsite.github.io^
 ||js13kgames.com^
 ||justdoinghomework.com^
 ||kaptentekno.com^

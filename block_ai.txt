@@ -62,6 +62,7 @@
 ||websim.com^
 ||wondershare.com^
 ||wordtune.com^
+||writefull.ai^
 ||writer.com^
 ||writesonic.com^
 ||x.com/i/grok^
