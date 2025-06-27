@@ -14,5 +14,6 @@
 ||thegamerimages.com^
 ||thisvid.com^
 ||uhmegle.com^
+||ya.ru^
 
 ! End of Block List
