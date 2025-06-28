@@ -1,8 +1,8 @@
 ! Block List for type: image
 ! Format: ||domain^ 
 
+||1win.direct^
 ||animefeet.blogspot.com^
-||cf.1win.direct^
 ||crushon.ai^
 ||dopple.ai^
 ||gamebanana.com^

@@ -4,6 +4,7 @@
 ||1001games.com^
 ||1a-1791.com^
 ||1games.io^
+||1wcommon.com^
 ||1wprde.com^
 ||23azostore.github.io^
 ||2kgames.com^
@@ -13,6 +14,7 @@
 ||agame.com^
 ||agar.io^
 ||aidungeon.com^
+||an1.com^
 ||antarttycoon.github.io^
 ||apes.io^
 ||api.tplinkra.com^
@@ -177,6 +179,7 @@
 ||grandwinland.com^
 ||greaterthangames.com^
 ||greenlemon.me^
+||grestgames.com^
 ||grindcraft.com^
 ||gulper.io^
 ||harag.cz^
@@ -260,6 +263,7 @@
 ||northgard.net^
 ||now.gg^
 ||online-go.com^
+||only-games.github.io^
 ||orb.farm^
 ||pacogames.com^
 ||paper.io^
@@ -269,6 +273,7 @@
 ||pcgamesn.com^
 ||peppagame.com^
 ||pixelcrux.com^
+||playbelline.com^
 ||playbite.com^
 ||play-games.com^
 ||play.googleapis.com^
@@ -297,7 +302,6 @@
 ||questlog.gg^
 ||r74n.com^
 ||rehabupracticesolutions.com^
-||res.1wcommon.com^
 ||riotgames.com^
 ||roadtolaughtale.com^
 ||rockstargames.com^
@@ -400,11 +404,13 @@
 ||watchdocumentaries.com^
 ||webadventures.games^
 ||webgames.io^
+||webglmath.github.io^
 ||weishi.qq.com^
 ||wgplayer.com^
 ||wgplayer.xyz^
 ||whackit.co^
 ||whoa.in^
+||wixgames.co.uk^
 ||wtfgames.io^
 ||www.4j.com^
 ||www.dexerto.com^
