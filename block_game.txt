@@ -4,6 +4,8 @@
 ||1001games.com^
 ||1a-1791.com^
 ||1games.io^
+||1wprde.com^
+||23azostore.github.io^
 ||2kgames.com^
 ||8games.net^
 ||aarp.org^
@@ -11,6 +13,7 @@
 ||agame.com^
 ||agar.io^
 ||aidungeon.com^
+||antarttycoon.github.io^
 ||apes.io^
 ||api.tplinkra.com^
 ||apkremix.com^
@@ -24,6 +27,7 @@
 ||azgames.io^
 ||babygames.com^
 ||backloggd.com^
+||basketball-legends.net^
 ||battledores.io^
 ||battle.net^
 ||beebom.com^
@@ -46,6 +50,7 @@
 ||brightestgames.com^
 ||brighthumanity.me^
 ||bubbleshooter.net^
+||burgerbounty.github.io^
 ||c4355.com^
 ||c4.wallpaperflare.com^
 ||callofduty.com^
@@ -62,6 +67,7 @@
 ||chesscomfiles.com^
 ||chessly.com^
 ||chezz.xyz^
+||cityidle.com^
 ||clashofclans.com^
 ||clashroyale.com^
 ||clickergames.io^
@@ -291,6 +297,7 @@
 ||questlog.gg^
 ||r74n.com^
 ||rehabupracticesolutions.com^
+||res.1wcommon.com^
 ||riotgames.com^
 ||roadtolaughtale.com^
 ||rockstargames.com^
@@ -322,6 +329,7 @@
 ||slope2.online^
 ||slope3online.io^
 ||slopegame3d.io^
+||slope-game.github.io^
 ||slopegameio.io^
 ||slopegame.net^
 ||slopeonline.online^
@@ -355,6 +363,7 @@
 ||tcsdzz.com^
 ||teamwood.games^
 ||tecent.com^
+||temple-run2.github.io^
 ||tetr.io^
 ||thegamer.com^
 ||theredemptiongames.com^
@@ -370,6 +379,7 @@
 ||trappedintheweb.com^
 ||tumblr.com^
 ||turbowarp.org^
+||ubg77.github.io^
 ||ubg89.github.io^
 ||ubgfun.github.io^
 ||ubi.com^
