@@ -2,7 +2,6 @@
 *acsbapp.com
 *acticdn.com
 *.adblockplus.dev
-*.adblockplus.org
 *.adguard.com
 *.adguard-dns.com
 *.adguard.org

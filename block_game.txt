@@ -123,6 +123,7 @@
 ||finalfantasyxiv.com^
 ||fischipedia.org^
 ||flashgamearchive.com^
+||flash-games.en.softonic.com^
 ||florianvanstrien.nl^
 ||freegames.com^
 ||freegamesonline.io^
@@ -262,6 +263,7 @@
 ||nointernetgame.com^
 ||northgard.net^
 ||now.gg^
+||numuki.com^
 ||online-go.com^
 ||only-games.github.io^
 ||orb.farm^
@@ -306,6 +308,7 @@
 ||roadtolaughtale.com^
 ||rockstargames.com^
 ||royaleapi.com^
+||ruffle.rs^
 ||rugcheck.xyz^
 ||sandsaga.com^
 ||sandspiel.club^
