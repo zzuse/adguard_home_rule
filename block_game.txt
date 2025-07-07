@@ -36,6 +36,7 @@
 ||bestfiends.com^
 ||bestgames.com^
 ||bgames.com^
+||bigdino.com^
 ||bigfishgames.com^
 ||bitheroesarena.com^
 ||bitheroesarena.io^
@@ -137,6 +138,7 @@
 ||furaffinity.net^
 ||g123.jp^
 ||g2a.com^
+||g55.co^
 ||galaxy.click^
 ||galleryroulette.com^
 ||gamaverse.com^
@@ -150,12 +152,14 @@
 ||gameindex.io^
 ||gamejeje.com^
 ||gamemonetize.com^
+||gamemonetize.games^
 ||gamemonetize.video^
 ||gamemonkey.org^
 ||gamenora.com^
 ||gamepix.com^
 ||gamerant.com^
 ||gamerantimages.com^
+||gamesflow.com^
 ||gamesfrog.com^
 ||gamesgames.com^
 ||gameshownetwork.com^
@@ -166,6 +170,7 @@
 ||gamespot.com^
 ||gamesradar.com^
 ||gamestolearnenglish.com^
+||gameszap.com^
 ||gamingcloud.com^
 ||gamurs.group^
 ||gdevelop.io^
@@ -192,6 +197,8 @@
 ||houseparty.com^
 ||i.chzbgr.com^
 ||idleminertycoon.com^
+||ign.com^
+||igre.games^
 ||image.yaksgames.com^
 ||img.cdn.famobi.com^
 ||incrementaldb.com^
@@ -232,6 +239,7 @@
 ||mail.survivorio.com^
 ||mariokarttour.com^
 ||marvelrivals.com^
+||mathgames66.github.io^
 ||medium.com^
 ||minesweeperonline.com^
 ||miniclip.com^
@@ -313,6 +321,7 @@
 ||sandsaga.com^
 ||sandspiel.club^
 ||savagehumans.com^
+||schoolgames69.weebly.com^
 ||schoolnetworkadminsarethebest.com^
 ||schoolschoolschool.com^
 ||scrap-metal.github.io^
@@ -386,8 +395,10 @@
 ||trappedintheweb.com^
 ||tumblr.com^
 ||turbowarp.org^
+||tynker.com^
 ||ubg77.github.io^
 ||ubg89.github.io^
+||ubg98.github.io^
 ||ubgfun.github.io^
 ||ubi.com^
 ||ufreegames.com^
@@ -423,6 +434,7 @@
 ||www.izzygames.com^
 ||www.kamibox.de^
 ||www.kidzsearch.com^
+||www.mathsisfun.com/games^
 ||www.meme-arsenal.com^
 ||www.miniplay.com^
 ||www.nintendolife.com^

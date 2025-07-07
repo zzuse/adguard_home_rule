@@ -270,6 +270,8 @@ publicsuffix.org
 *.ravenjs.com
 *rbxcdn.com
 *.readspeaker.com
+*.readtheory.com
+*.readtheory.org
 *.recaptcha.net
 *.revenuecat.com
 *roblox*
@@ -294,6 +296,7 @@ s-iphone
 sketchfab.com
 *.skype.com
 *.s-microsoft.com
+*.snapchat.com
 *.solana.fm
 *.split.io
 *.ssl-images-amazon.com

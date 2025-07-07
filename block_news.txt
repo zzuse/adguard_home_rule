@@ -8,6 +8,7 @@
 ||businessinsider.com^
 ||cnn.com^
 ||guardian.map.fastly.net^
+||hindustantimes.com^
 ||jwplayer.com^
 ||khooz.com^
 ||linkedin.com^

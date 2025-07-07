@@ -1,0 +1,12 @@
+
+! Block List for type: music
+! Format: ||domain^ 
+
+||facebook.com^$client='10.0.0.223'
+||unity3d.com^$client='10.0.0.223'
+||snapchat.com^$client='10.0.0.223'
+||sc-cdn.net^$client='10.0.0.223'
+||amazonaws.com^$client='10.0.0.223'
+||google.com^$client='10.0.0.223'
+
+! End of Block List
