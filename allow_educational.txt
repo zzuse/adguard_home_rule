@@ -3,11 +3,7 @@
 
 @@||scratch5.com^
 @@||scratch.mit.edu^
-@@||ca.search.yahoo.com^
-@@||r.search.yahoo.com^
-@@||googlevideo.com^
-@@||video.search.yahoo.com^
-@@||ca.video.search.yahoo.com^
-@@||ca.images.search.yahoo.com^
+@@||unity3d.com^$client='10.0.0.142'
+
 
 ! End of Allow List

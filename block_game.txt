@@ -81,12 +81,15 @@
 ||comicbook.com^
 ||comicsenz.com^
 ||construct.net^
+||cookieclicker3.com^
+||cookieclicker.com^
 ||cookieclicker.wiki.gg^
 ||coolmathgames.com^
 ||crazygames.com^
 ||dafunda.com^
 ||damianosborne.com^
 ||dangerousminds.net^
+||dashnet.org^
 ||data.html5games.com^
 ||daybreakgames.com^
 ||ddo.com^
@@ -125,6 +128,7 @@
 ||fischipedia.org^
 ||flashgamearchive.com^
 ||flash-games.en.softonic.com^
+||flashmuseum.org^
 ||florianvanstrien.nl^
 ||freegames.com^
 ||freegamesonline.io^
