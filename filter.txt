@@ -271,6 +271,7 @@ publicsuffix.org
 *rbxcdn.com
 *.readspeaker.com
 *.readtheory.com
+*readtheory.com
 *.readtheory.org
 *.recaptcha.net
 *.revenuecat.com
@@ -331,6 +332,7 @@ transitapp-data.com
 *.umengcloud.com
 *.umeng.com
 *.umsns.com
+*.unity.com
 *unpkg.com
 *.usercentrics.eu
 *.usertrust.com

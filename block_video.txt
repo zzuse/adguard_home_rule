@@ -27,6 +27,7 @@
 ||playwire.com^
 ||rumble.com^
 ||sproutvideo.com^
+||theasmrindex.com^
 ||tiktokcdn-us.com^
 ||utreon.com^
 ||vevo.com^
