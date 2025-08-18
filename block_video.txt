@@ -8,6 +8,7 @@
 ||crackle.com^
 ||crunchyroll.com^
 ||dailymotion.com^
+||drivingskillsforlife.com^
 ||d.tube^
 ||framasoft.org^
 ||freetubeapp.io^
@@ -28,7 +29,9 @@
 ||rumble.com^
 ||sproutvideo.com^
 ||theasmrindex.com^
+||tiktokcdn-eu.com^
 ||tiktokcdn-us.com^
+||tiktokv.com^
 ||utreon.com^
 ||vevo.com^
 ||videvo.net^

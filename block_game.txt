@@ -153,6 +153,7 @@
 ||gamecomets.com^
 ||gamedistribution.com^
 ||gameforge.com^
+||game.guide^
 ||gameindex.io^
 ||gamejeje.com^
 ||gamejolt.com^
@@ -170,6 +171,7 @@
 ||gameshownetwork.com^
 ||games.lol^
 ||gameslol.net^
+||gamesnacks.com^
 ||games-online.io^
 ||games.poki.com^
 ||gamespot.com^
@@ -273,6 +275,7 @@
 ||neal.fun^
 ||neave.com^
 ||nend.io^
+||neocities.org^
 ||new66ez.github.io^
 ||newgrounds.com^
 ||nextersglobal.com^
@@ -286,6 +289,7 @@
 ||only-games.github.io^
 ||orb.farm^
 ||pacogames.com^
+||papas-games.io^
 ||paper.io^
 ||paper-io.com^
 ||paperio.site^
@@ -366,6 +370,7 @@
 ||snake-game.io^
 ||snokido.com^
 ||socialstatusdp.com^
+||spatial.io^
 ||sprunkin.com^
 ||squadbustersgame.com^
 ||stabfish2.io^
@@ -416,10 +421,13 @@
 ||unblockedgames76online.com^
 ||unblockedgames76.org^
 ||unblockedgames.blogbucket.org^
+||unblockedgamesgg.com^
 ||unblocked-games.org^
 ||unblockedgamespod.com^
 ||unity3d.com^
+||usatoday.com^
 ||vex5.io^
+||vex5online.github.io^
 ||vg247.com^
 ||videogamer.com^
 ||videoplayerhub.com^
