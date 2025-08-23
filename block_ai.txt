@@ -44,13 +44,16 @@
 ||novelai.net^
 ||nyota.ai^
 ||opus.pro^
+||overchat.ai^
 ||ovistasocial.com^
 ||perplexity.ai^
 ||presentations.ai^
+||quillbot.com^
 ||reclaim.ai^
 ||runwayml.com^
 ||rytr.me^
 ||sanebox.com^
+||secretai.io^
 ||shortwave.com^
 ||sudowrite.com^
 ||synthesia.io^

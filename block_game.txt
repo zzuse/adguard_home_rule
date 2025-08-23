@@ -66,6 +66,7 @@
 ||cdn.acidcow.com^
 ||cdn.freeyork.org^
 ||cdn.kiz10.com^
+||chatdnd.net^
 ||chess24.com^
 ||chess.com^
 ||chesscomfiles.com^
@@ -112,6 +113,7 @@
 ||enchambered.com^
 ||epimg.net^
 ||eurogamer.net^
+||exitgames.com^
 ||exmanga.com^
 ||explodingkittens.com^
 ||facebook.com^
@@ -389,6 +391,7 @@
 ||superhardalgebraproblems.com^
 ||supermario-game.com^
 ||supermarioplay.com^
+||surfertoday.com^
 ||suroi.io^
 ||taming.io^
 ||tcsdzz.com^

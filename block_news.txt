@@ -10,6 +10,7 @@
 ||foxnews.com^
 ||guardian.map.fastly.net^
 ||hindustantimes.com^
+||indiatimes.com^
 ||jwplayer.com^
 ||khooz.com^
 ||linkedin.com^
@@ -21,6 +22,7 @@
 ||reddit.com^
 ||sportskeeda.com^
 ||spy.com^
+||steampeek.hu^
 ||theguardian.com^
 ||thepopverse.com^
 ||thesaurus.com^
