@@ -171,6 +171,7 @@
 ||gamesfrog.com^
 ||gamesgames.com^
 ||gameshownetwork.com^
+||games-kids.com^
 ||games.lol^
 ||gameslol.net^
 ||gamesnacks.com^
@@ -223,6 +224,7 @@
 ||itch.io^
 ||jackboxgames.com^
 ||jeowebsite.github.io^
+||jeux.org^
 ||js13kgames.com^
 ||juegos.com^
 ||justdoinghomework.com^
@@ -249,6 +251,7 @@
 ||luts91.github.io^
 ||lutsgames.com^
 ||madbox.io^
+||mahjongfun.com^
 ||mail.survivorio.com^
 ||mariokarttour.com^
 ||marketjs.com^
@@ -315,10 +318,12 @@
 ||playsaurus.com^
 ||playsaurusstats.com^
 ||plays.org^
+||playtoongames.com^
 ||pleasedontblockchess.com^
 ||pleated-jeans.com^
 ||plinko2023.com^
 ||pockettactics.com^
+||pog.com^
 ||pogo.com^
 ||pokemon.com^
 ||pokemongolive.com^

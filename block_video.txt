@@ -29,6 +29,7 @@
 ||rumble.com^
 ||sproutvideo.com^
 ||theasmrindex.com^
+||tiktokcdn.com^
 ||tiktokcdn-eu.com^
 ||tiktokcdn-us.com^
 ||tiktokv.com^
