@@ -331,6 +331,7 @@
 ||pokemon.com^
 ||pokemongolive.com^
 ||poki.com^
+||poki.io^
 ||ponosgames.com^
 ||pupperish.com^
 ||pvp.net^
@@ -418,7 +419,6 @@
 ||topgamedata.com^
 ||toytheater.com^
 ||tplinknbu.com^
-||t.poki.io^
 ||traffic-rider.io^
 ||trappedintheweb.com^
 ||tumblr.com^
