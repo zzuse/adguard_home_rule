@@ -30,6 +30,7 @@
 ||azgames.io^
 ||babygames.com^
 ||backloggd.com^
+||ball-bang.github.io^
 ||basketball-legends.net^
 ||battledores.io^
 ||battle.net^
@@ -180,6 +181,7 @@
 ||games.poki.com^
 ||gamespot.com^
 ||gamesradar.com^
+||gamestank.github.io^
 ||gamestolearnenglish.com^
 ||gameszap.com^
 ||gamingcloud.com^
@@ -404,6 +406,7 @@
 ||tcsdzz.com^
 ||teamwood.games^
 ||tecent.com^
+||techgrapple.com^
 ||temple-run2.github.io^
 ||tetr.io^
 ||thegamer.com^
