@@ -341,6 +341,7 @@
 ||riotgames.com^
 ||roadtolaughtale.com^
 ||rockstargames.com^
+||rogueblox.org^
 ||royaleapi.com^
 ||ruffle.rs^
 ||rugcheck.xyz^
