@@ -203,6 +203,7 @@
 ||gulper.io^
 ||h5games.net^
 ||h5games.online^
+||h5games.usercontent.goog^
 ||harag.cz^
 ||herosmash.com^
 ||hihoy.com^
@@ -341,6 +342,7 @@
 ||riotgames.com^
 ||roadtolaughtale.com^
 ||rockstargames.com^
+||rogueblox.net^
 ||rogueblox.org^
 ||royaleapi.com^
 ||ruffle.rs^
