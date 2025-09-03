@@ -8,6 +8,7 @@
 ||1wprde.com^
 ||23azostore.github.io^
 ||2kgames.com^
+||6xgames.com^
 ||8games.net^
 ||aarp.org^
 ||addictinggames.com^
@@ -27,6 +28,7 @@
 ||artix.com^
 ||artstation.com^
 ||autohotkey.com^
+||awesometanks-2.com^
 ||azgames.io^
 ||babygames.com^
 ||backloggd.com^
@@ -161,6 +163,7 @@
 ||gameindex.io^
 ||gamejeje.com^
 ||gamejolt.com^
+||gamemonetize.co^
 ||gamemonetize.com^
 ||gamemonetize.games^
 ||gamemonetize.video^
@@ -169,6 +172,7 @@
 ||gamepix.com^
 ||gamerant.com^
 ||gamerantimages.com^
+||games68.com^
 ||gamesflow.com^
 ||gamesfrog.com^
 ||gamesgames.com^
@@ -204,6 +208,7 @@
 ||h5games.net^
 ||h5games.online^
 ||h5games.usercontent.goog^
+||hackedfreegames.com^
 ||harag.cz^
 ||herosmash.com^
 ||hihoy.com^
