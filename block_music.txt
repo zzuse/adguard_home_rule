@@ -14,6 +14,7 @@
 ||freemusicarchive.org^
 ||freesound.org^
 ||hydr0.org^
+||jango.com^
 ||makebestmusic.com^
 ||mp3mn.net^
 ||musescore.com^

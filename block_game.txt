@@ -14,10 +14,13 @@
 ||addictinggames.com^
 ||agame.com^
 ||agar.io^
+||ageofwargame.io^
+||ageofwarunblocked.github.io^
 ||aidungeon.com^
 ||AllGames.io^
 ||an1.com^
 ||antarttycoon.github.io^
+||aol.com/games^
 ||apes.io^
 ||api.tplinkra.com^
 ||apkremix.com^
@@ -37,6 +40,7 @@
 ||battledores.io^
 ||battle.net^
 ||beebom.com^
+||bestcrazygames.com^
 ||bestfiends.com^
 ||bestgames.com^
 ||bgames.com^
@@ -102,6 +106,7 @@
 ||deltiasgaming.com^
 ||demilked.com^
 ||destructoid.com^
+||desyncedgame.com^
 ||digdig.io^
 ||dndai.app^
 ||dogeminer2.com^
@@ -117,9 +122,11 @@
 ||enchambered.com^
 ||epimg.net^
 ||eurogamer.net^
+||evilgames.eu^
 ||exitgames.com^
 ||exmanga.com^
 ||explodingkittens.com^
+||fables.gg^
 ||facebook.com^
 ||famobi.com^
 ||fancyfishgames.com^
@@ -159,6 +166,7 @@
 ||gamecomets.com^
 ||gamedistribution.com^
 ||gameforge.com^
+||gamegab.com^
 ||game.guide^
 ||gameindex.io^
 ||gamejeje.com^
@@ -170,6 +178,7 @@
 ||gamemonkey.org^
 ||gamenora.com^
 ||gamepix.com^
+||gamepluto.com^
 ||gamerant.com^
 ||gamerantimages.com^
 ||games68.com^
@@ -209,6 +218,7 @@
 ||h5games.online^
 ||h5games.usercontent.goog^
 ||hackedfreegames.com^
+||hackedonlinegames.com^
 ||harag.cz^
 ||herosmash.com^
 ||hihoy.com^
@@ -246,6 +256,7 @@
 ||kizi.com^
 ||kongregate.com^
 ||kongregate.io^
+||kotaku.com^
 ||k.p-n.io^
 ||krunker.io^
 ||lablockedgames.com^
@@ -412,6 +423,7 @@
 ||surfertoday.com^
 ||suroi.io^
 ||taming.io^
+||tanks.gg^
 ||tcsdzz.com^
 ||teamwood.games^
 ||tecent.com^
