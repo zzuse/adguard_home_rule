@@ -17,7 +17,6 @@
 ||jango.com^
 ||makebestmusic.com^
 ||mp3mn.net^
-||musescore.com^
 ||musicfy.lol^
 ||mybcapps.com^
 ||onlineradiobox.com^
