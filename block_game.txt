@@ -321,6 +321,7 @@
 ||pbskids.org^
 ||pcgamesn.com^
 ||peppagame.com^
+||pikpok.com^
 ||pixelcrux.com^
 ||playbelline.com^
 ||playbite.com^
