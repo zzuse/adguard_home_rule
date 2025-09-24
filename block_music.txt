@@ -3,9 +3,12 @@
 
 ||8dio.com^
 ||aimusicgen.ai^
+||aisongmaker.io^
 ||audiojungle.net^
 ||audiopipe.suno.ai^
 ||beatoven.ai^
+||boomplay.com^
+||boomplaymusic.com^
 ||bramleyprimary.co.za^
 ||easymusic.ai^
 ||elmanana.ru^
@@ -17,7 +20,9 @@
 ||jango.com^
 ||makebestmusic.com^
 ||mp3mn.net^
+||mureka.ai^
 ||musicfy.lol^
+||musicgeneratorai.com^
 ||mybcapps.com^
 ||onlineradiobox.com^
 ||poiskm.net^

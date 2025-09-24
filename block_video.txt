@@ -12,6 +12,7 @@
 ||d.tube^
 ||framasoft.org^
 ||freetubeapp.io^
+||getloady.com^
 ||imgur.com^
 ||joinpeertube.org^
 ||justwatch.com^
@@ -27,6 +28,7 @@
 ||playeur.com^
 ||playwire.com^
 ||rumble.com^
+||screencrush.com^
 ||sproutvideo.com^
 ||theasmrindex.com^
 ||tiktokcdn.com^

@@ -21,6 +21,7 @@
 ||secrets.ai^
 ||svgator.com^
 ||thegamerimages.com^
+||theladysteph.com^
 ||thisvid.com^
 ||uhmegle.com^
 ||ya.ru^
