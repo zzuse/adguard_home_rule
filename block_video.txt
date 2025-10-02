@@ -30,6 +30,7 @@
 ||rumble.com^
 ||screencrush.com^
 ||sproutvideo.com^
+||supercartoons.net^
 ||theasmrindex.com^
 ||tiktokcdn.com^
 ||tiktokcdn-eu.com^
@@ -39,6 +40,7 @@
 ||vevo.com^
 ||videvo.net^
 ||vimeo.com^
+||vlipsy.com^
 ||wikimedia.org^
 ||wistia.com^
 ||wistia.net^

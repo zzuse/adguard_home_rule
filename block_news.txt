@@ -20,6 +20,7 @@
 ||quora.com^
 ||redd.it^
 ||reddit.com^
+||skibidi.io^
 ||sportskeeda.com^
 ||spy.com^
 ||steampeek.hu^

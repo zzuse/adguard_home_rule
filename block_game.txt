@@ -136,6 +136,7 @@
 ||fastly.net^
 ||ficfun.com^
 ||fictiondb.com^
+||file3423host11.cfd^
 ||filmdaily.co^
 ||finalfantasyxiv.com^
 ||fischipedia.org^
@@ -231,6 +232,7 @@
 ||idleminertycoon.com^
 ||ign.com^
 ||igre.games^
+||igroutka.ru^
 ||image.yaksgames.com^
 ||img.cdn.famobi.com^
 ||incrementaldb.com^
@@ -416,6 +418,7 @@
 ||steampowered.com^
 ||steamserver.net^
 ||stickgames.com^
+||stickman-games.io^
 ||supercell.com^
 ||supercitygame.com^
 ||superhardalgebraproblems.com^
