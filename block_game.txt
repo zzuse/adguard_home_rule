@@ -483,6 +483,7 @@
 ||wixgames.co.uk^
 ||wtfgames.io^
 ||www.4j.com^
+||www.blockfort.com^
 ||www.dexerto.com^
 ||www.extracatchy.net^
 ||www.febspot.com^
