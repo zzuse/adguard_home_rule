@@ -125,6 +125,7 @@
 ||eurogamer.net^
 ||evilgames.eu^
 ||exitgames.com^
+||exitlag.com^
 ||exmanga.com^
 ||explodingkittens.com^
 ||fables.gg^
@@ -160,6 +161,7 @@
 ||g55.co^
 ||galaxy.click^
 ||galleryroulette.com^
+||gam3s.gg^
 ||gamaverse.com^
 ||gamearter.com^
 ||game-cdn.poki.com^
@@ -364,6 +366,7 @@
 ||rockstargames.com^
 ||rogueblox.net^
 ||rogueblox.org^
+||ropro.io^
 ||royaleapi.com^
 ||ruffle.rs^
 ||rugcheck.xyz^

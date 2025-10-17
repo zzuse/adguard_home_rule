@@ -5,6 +5,7 @@
 ||aaronkleiber.com^
 ||bitchute.com^
 ||blender.org^
+||clubhousestatues.com^
 ||crackle.com^
 ||crunchyroll.com^
 ||dailymotion.com^
@@ -41,6 +42,7 @@
 ||videvo.net^
 ||vimeo.com^
 ||vlipsy.com^
+||weasyl.com^
 ||wikimedia.org^
 ||wistia.com^
 ||wistia.net^

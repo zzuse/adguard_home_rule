@@ -179,6 +179,7 @@ imagedelivery.net
 *.jsdelivr.net
 *jwpcdn.com
 *jwpsrv.com
+*.khanacademy.org
 *kickstarter.com
 *.klaviyo.com
 *.kunluncan.com
@@ -367,6 +368,7 @@ www.officeholidays.com
 *yellowblue.io
 *.youtube.com
 youtube.com
+*.youtubeeducation.com
 *youtube-nocookie.com
 *.ytimg.com
 
