@@ -29,6 +29,7 @@
 ||playeur.com^
 ||playwire.com^
 ||rumble.com^
+||samsung.com^
 ||screencrush.com^
 ||sproutvideo.com^
 ||supercartoons.net^
