@@ -240,6 +240,7 @@
 ||image.yaksgames.com^
 ||img.cdn.famobi.com^
 ||incrementaldb.com^
+||indiegam.com^
 ||injuredripplegentleman.com^
 ||inmobi.com^
 ||innersloth.com^
@@ -357,6 +358,7 @@
 ||poki.com^
 ||poki.io^
 ||ponosgames.com^
+||progameguides.com^
 ||pupperish.com^
 ||pvp.net^
 ||questlog.gg^
@@ -411,6 +413,7 @@
 ||socialstatusdp.com^
 ||spatial.io^
 ||sprunkin.com^
+||sprunki.org^
 ||squadbustersgame.com^
 ||stabfish2.io^
 ||stabfish.io^
