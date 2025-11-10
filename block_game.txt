@@ -25,6 +25,7 @@
 ||api.tplinkra.com^
 ||apkremix.com^
 ||arcadespot.com^
+||arcaneodyssey.dev^
 ||archive.org^
 ||arkadium.com^
 ||armorgames.com^
@@ -389,7 +390,9 @@
 ||sesamestreet.org^
 ||setgame.com^
 ||shockwave.com^
+||shootem.io^
 ||shooter-bubble.com^
+||shotwars.io^
 ||shutupandtakemymoney.com^
 ||silvergames.com^
 ||sites.google.com^
@@ -414,6 +417,7 @@
 ||spatial.io^
 ||sprunkin.com^
 ||sprunki.org^
+||sprunkiphase3.com^
 ||squadbustersgame.com^
 ||stabfish2.io^
 ||stabfish.io^
@@ -512,6 +516,7 @@
 ||yandex.com^
 ||yategames.com^
 ||yiv.com^
+||yoplay.io^
 ||yyggames.com^
 ||zynga.com^
 
