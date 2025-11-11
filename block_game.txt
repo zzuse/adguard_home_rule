@@ -96,6 +96,7 @@
 ||cookieclicker.com^
 ||cookieclicker.wiki.gg^
 ||coolmathgames.com^
+||craftnite.io^
 ||crazygames.com^
 ||culinaryschools.org^
 ||dafunda.com^
@@ -291,6 +292,7 @@
 ||minireview.io^
 ||mistupid.com^
 ||mmobeep.com^
+||mmostats.com^
 ||moddb.com^
 ||monkey3three.github.io^
 ||monkeymartgame.org^
