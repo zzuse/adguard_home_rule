@@ -39,6 +39,7 @@
 ||ball-bang.github.io^
 ||basketball-legends.net^
 ||battledores.io^
+||battledudes.io^
 ||battle.net^
 ||beebom.com^
 ||bestcrazygames.com^
@@ -211,6 +212,7 @@
 ||geography-lessons-5.pro^
 ||geometrydashlite.io^
 ||gg.deals^
+||giantbomb.com^
 ||giantfreakinrobot.com^
 ||girlsgogamescdn.com^
 ||girlsgogames.com^
@@ -366,6 +368,7 @@
 ||pvp.net^
 ||questlog.gg^
 ||r74n.com^
+||rawg.io^
 ||rehabupracticesolutions.com^
 ||riotgames.com^
 ||roadtolaughtale.com^
@@ -520,6 +523,7 @@
 ||yiv.com^
 ||yoplay.io^
 ||yyggames.com^
+||zombsroyale.io^
 ||zynga.com^
 
 ! End of Block List

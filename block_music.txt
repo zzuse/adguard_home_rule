@@ -45,5 +45,6 @@
 ||ultimate-guitar.com^
 ||uppbeat.io^
 ||zeno.fm^
+||zozoki.com^
 
 ! End of Block List
