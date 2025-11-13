@@ -36,6 +36,7 @@
 ||kickresume.com^
 ||looka.com^
 ||lovable.dev^
+||magicbox.tools^
 ||midjourney.com^
 ||murf.ai^
 ||n8n.io^

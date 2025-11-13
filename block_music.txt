@@ -6,6 +6,7 @@
 ||aisongmaker.io^
 ||audiojungle.net^
 ||audiopipe.suno.ai^
+||azlyrics.com^
 ||beatoven.ai^
 ||boomplay.com^
 ||boomplaymusic.com^

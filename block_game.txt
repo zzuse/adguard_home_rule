@@ -320,6 +320,7 @@
 ||nextersglobal.com^
 ||ngfiles.com^
 ||nocookie.net^
+||nocorspolicy.com^
 ||nointernetgame.com^
 ||northgard.net^
 ||now.gg^
@@ -335,6 +336,7 @@
 ||pbskids.org^
 ||pcgamesn.com^
 ||peppagame.com^
+||perfect-circle.fun^
 ||pikpok.com^
 ||pixelcrux.com^
 ||playbelline.com^
