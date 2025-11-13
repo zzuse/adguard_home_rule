@@ -249,6 +249,7 @@
 ||inmobi.com^
 ||innersloth.com^
 ||iogames.games^
+||iogames.space^
 ||iot.i.tplinknbu.com^
 ||istockphoto.com^
 ||itch.io^
@@ -279,6 +280,7 @@
 ||little-games.com^
 ||logicard.github.io^
 ||lomando.com^
+||lordz.io^
 ||luts91.github.io^
 ||lutsgames.com^
 ||madbox.io^
