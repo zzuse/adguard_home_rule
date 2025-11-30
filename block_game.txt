@@ -50,6 +50,7 @@
 ||bigfishgames.com^
 ||bitheroesarena.com^
 ||bitheroesarena.io^
+||blackjacksimulator.net^
 ||blazepress.com^
 ||blizzard.com^
 ||blockfort.com^
