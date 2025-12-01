@@ -7,6 +7,8 @@
 ||1wcommon.com^
 ||1wprde.com^
 ||23azostore.github.io^
+||247blackjack.com^
+||247roulette.org^
 ||2kgames.com^
 ||6xgames.com^
 ||8games.net^
@@ -50,6 +52,7 @@
 ||bigfishgames.com^
 ||bitheroesarena.com^
 ||bitheroesarena.io^
+||blackjackinfo.com^
 ||blackjacksimulator.net^
 ||blazepress.com^
 ||blizzard.com^
@@ -71,6 +74,7 @@
 ||callofduty.com^
 ||cardgames.io^
 ||cardsagainsthumanity.com^
+||cardzmania.com^
 ||cartoonnetworkhq.com^
 ||cbc.ca^
 ||cbr.com^
@@ -160,6 +164,7 @@
 ||frvr.com^
 ||funbrain.com^
 ||funnygames.org^
+||fupa.com^
 ||furaffinity.net^
 ||g123.jp^
 ||g2a.com^
@@ -424,6 +429,7 @@
 ||snake-game.io^
 ||snokido.com^
 ||socialstatusdp.com^
+||solitaire.org^
 ||spatial.io^
 ||sprunkin.com^
 ||sprunki.org^
