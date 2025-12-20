@@ -371,4 +371,5 @@ youtube.com
 *.youtubeeducation.com
 *youtube-nocookie.com
 *.ytimg.com
+*zzuse.duckdns.org
 

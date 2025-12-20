@@ -325,6 +325,7 @@
 ||newgrounds.com^
 ||nextersglobal.com^
 ||ngfiles.com^
+||nintendo.net^
 ||nocookie.net^
 ||nocorspolicy.com^
 ||nointernetgame.com^
@@ -373,6 +374,7 @@
 ||poki.com^
 ||poki.io^
 ||ponosgames.com^
+||posthog.com^
 ||progameguides.com^
 ||pupperish.com^
 ||pvp.net^
@@ -454,6 +456,7 @@
 ||supermarioplay.com^
 ||surfertoday.com^
 ||suroi.io^
+||survev.io^
 ||taming.io^
 ||tanks.gg^
 ||tcsdzz.com^
