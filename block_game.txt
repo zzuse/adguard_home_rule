@@ -160,6 +160,7 @@
 ||freegames.org^
 ||freelistenonline.com^
 ||freeonlinegames.com^
+||friendlyfiregame.com^
 ||friv.com^
 ||frvr.com^
 ||funbrain.com^
