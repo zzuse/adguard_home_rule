@@ -28,6 +28,7 @@
 ||getclockwise.com^
 ||getguru.com^
 ||grammarly.com^
+||grok.com^
 ||harvey.ai^
 ||hiverhq.com^
 ||hubspot.com^
