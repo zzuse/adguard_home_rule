@@ -15,6 +15,7 @@
 ||khooz.com^
 ||linkedin.com^
 ||looper.com^
+||motherjones.com^
 ||naturalmattressfinder.com^
 ||people.com^
 ||quora.com^

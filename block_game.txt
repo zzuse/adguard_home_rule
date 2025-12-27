@@ -118,6 +118,7 @@
 ||destructoid.com^
 ||desyncedgame.com^
 ||digdig.io^
+||disboard.org^
 ||dndai.app^
 ||dogeminer2.com^
 ||dogeminer.se^
@@ -142,6 +143,7 @@
 ||famobi.com^
 ||fancyfishgames.com^
 ||fandom.com^
+||fandomwire.com^
 ||fanverse.org^
 ||farmhand.life^
 ||fastly.net^
@@ -175,6 +177,7 @@
 ||gam3s.gg^
 ||gamaverse.com^
 ||gamearter.com^
+||gameboost.com^
 ||game-cdn.poki.com^
 ||game.clashroyaleapp.com^
 ||gamecolony.com^
@@ -482,6 +485,7 @@
 ||turbowarp.org^
 ||twinery.org^
 ||tynker.com^
+||u4gm.com^
 ||ubg77.github.io^
 ||ubg89.github.io^
 ||ubg98.github.io^
