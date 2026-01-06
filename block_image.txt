@@ -10,6 +10,7 @@
 ||dirfxx.com^
 ||dopple.ai^
 ||duckduckgo.com^
+||dyndns.tv^
 ||footstockings.com^
 ||furbooru.org^
 ||gamebanana.com^
