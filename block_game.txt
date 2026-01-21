@@ -195,6 +195,7 @@
 ||gamemonetize.video^
 ||gamemonkey.org^
 ||gamenora.com^
+||gamepass.com^
 ||gamepix.com^
 ||gamepluto.com^
 ||gamerant.com^

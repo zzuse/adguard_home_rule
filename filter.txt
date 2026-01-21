@@ -350,6 +350,7 @@ transitapp-data.com
 *weixin*.com
 *.weixin.qq.com
 *.weshineapp.com
+*.whatsapp.com
 *whatsapp.net
 *.wikia.com
 *.wikimedia.org
