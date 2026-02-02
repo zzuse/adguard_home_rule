@@ -175,6 +175,7 @@ icloud.com
 *.icloud-content.com
 imagedelivery.net
 *.instagram.com
+*.jetbrains.com
 *.jquery.com
 *.jsdelivr.net
 *jwpcdn.com
