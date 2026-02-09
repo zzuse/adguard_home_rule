@@ -38,6 +38,7 @@
 ||tiktokcdn-eu.com^
 ||tiktokcdn-us.com^
 ||tiktokv.com^
+||ungrounded.net^
 ||utreon.com^
 ||vevo.com^
 ||videvo.net^
