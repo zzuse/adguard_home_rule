@@ -8,9 +8,9 @@
 ||clubhousestatues.com^
 ||crackle.com^
 ||crunchyroll.com^
+||d.tube^
 ||dailymotion.com^
 ||drivingskillsforlife.com^
-||d.tube^
 ||framasoft.org^
 ||freetubeapp.io^
 ||getloady.com^
@@ -34,9 +34,9 @@
 ||sproutvideo.com^
 ||supercartoons.net^
 ||theasmrindex.com^
-||tiktokcdn.com^
 ||tiktokcdn-eu.com^
 ||tiktokcdn-us.com^
+||tiktokcdn.com^
 ||tiktokv.com^
 ||ungrounded.net^
 ||utreon.com^

@@ -1,12 +1,14 @@
 ! Block List for type: image
 ! Format: ||domain^ 
 
+||.rule34.xxx^
 ||1win.direct^
 ||2girls1cup.ca^
-||2ip.ru^
+||adult-comics.xxx-hunt.com^
 ||animefeet.blogspot.com^
 ||blogunderalog.com^
 ||crushon.ai^
+||cumception.com^
 ||dirfxx.com^
 ||dopple.ai^
 ||duckduckgo.com^
@@ -15,6 +17,7 @@
 ||furbooru.org^
 ||gamebanana.com^
 ||hahahumor.com^
+||hentai-foundry.com^
 ||hentaibooty.com^
 ||hentaiforce.me^
 ||hentaiporn.app^
@@ -22,11 +25,12 @@
 ||iporntv.net^
 ||kurozenzen.github.io^
 ||loyalfans.com^
-||mybib.com^
+||pictoa.com^
 ||pixai.art^
+||r34xyz.b-cdn.net^
 ||routerpp.life^
 ||rule34x.net^
-||.rule34.xxx^
+||sankakucomplex.com^
 ||sb-cd.com^
 ||scatfap.com^
 ||secrets.ai^
@@ -35,6 +39,9 @@
 ||theladysteph.com^
 ||thisvid.com^
 ||uhmegle.com^
+||xbooru.com^
+||xxgasm.com^
 ||ya.ru^
+||2ip.ru^
 
 ! End of Block List
