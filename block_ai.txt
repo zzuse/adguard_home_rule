@@ -27,6 +27,7 @@
 ||gemini.google.com^
 ||getclockwise.com^
 ||getguru.com^
+||google.com^
 ||grammarly.com^
 ||grok.com^
 ||harvey.ai^
@@ -55,6 +56,8 @@
 ||runwayml.com^
 ||rytr.me^
 ||sanebox.com^
+||scratch.mit.edu^
+||scratch5.com^
 ||secretai.io^
 ||shortwave.com^
 ||sudowrite.com^

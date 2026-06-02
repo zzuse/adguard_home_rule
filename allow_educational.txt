@@ -1,9 +1,5 @@
 ! Allow List for type: education
 ! Format: ||domain^ 
 
-@@||scratch5.com^
-@@||scratch.mit.edu^
-@@||unity3d.com^$client='10.0.0.142'
-
 
 ! End of Allow List
