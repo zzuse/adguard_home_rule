@@ -19,6 +19,7 @@
 ||justwatch.com^
 ||lamplightreview.com^
 ||lbry.com^
+||medal.tv^
 ||metacube.com^
 ||myanimelist.net^
 ||newpipe.net^
