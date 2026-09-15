@@ -104,6 +104,7 @@
 ||coolmathgames.com^
 ||craftnite.io^
 ||crazygames.com^
+||cubecraft.net^
 ||culinaryschools.org^
 ||dafunda.com^
 ||damianosborne.com^
@@ -292,6 +293,8 @@
 ||logicard.github.io^
 ||lomando.com^
 ||lordz.io^
+||lunarclient.com^
+||lunarclientcdn.com^
 ||luts91.github.io^
 ||lutsgames.com^
 ||m.taptap.io^
@@ -303,6 +306,7 @@
 ||marvelrivals.com^
 ||mathgames66.github.io^
 ||medium.com^
+||minecraft.net^
 ||minesweeperonline.com^
 ||miniclip.com^
 ||minireview.io^
@@ -310,6 +314,7 @@
 ||mmobeep.com^
 ||mmostats.com^
 ||moddb.com^
+||mojang.com^
 ||monkey-mart.io^
 ||monkey3three.github.io^
 ||monkeymart.io^
@@ -340,6 +345,7 @@
 ||online-go.com^
 ||only-games.github.io^
 ||orb.farm^
+||overwolf.com^
 ||pacogames.com^
 ||papas-games.io^
 ||paper-io.com^
